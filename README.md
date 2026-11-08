@@ -23,15 +23,9 @@ Built with a minimal editorial aesthetic, smooth animations, responsive layouts,
 
 ## 🛠️ Tech Stack
 
-| Technology | Purpose |
-|:---|:---|
-| ⚛️ React | Component-based UI |
-| ⚡ Vite | Fast development and build tooling |
-| 🟨 JavaScript | Application logic |
-| 🎨 CSS | Styling and responsive layouts |
-| 🎬 Framer Motion | Animations and transitions |
-| 🧩 Lucide React | Icons |
-| ▲ Vercel | Deployment |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,vite,js,css,html,framer,git,github,vercel" />
+</p>
 
 ## 🚀 Features
 
