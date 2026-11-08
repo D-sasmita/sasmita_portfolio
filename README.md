@@ -27,14 +27,7 @@ Built with a minimal editorial aesthetic, smooth animations, responsive layouts,
   <img src="https://skillicons.dev/icons?i=react,vite,js,css,html,framer,git,github,vercel" />
 </p>
 
-## 🚀 Features
 
-- 🎨 Clean, editorial-inspired design
-- 🌓 Light and dark mode
-- 💫 Smooth animations and scroll effects
-- 📱 Responsive across desktop, tablet, and mobile
-- 🗂️ Dedicated sections for projects and research
-- 🔗 Direct links to GitHub, LinkedIn, and LeetCode
 
 ## 💻 Run Locally
 
