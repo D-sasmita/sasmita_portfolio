@@ -1,12 +1,28 @@
-# Sasmita Das — Portfolio
+
+# Sasmita Das | Portfolio
+
+**Live Website:** https://sasmita-portfolio-tau.vercel.app
 
 React + Vite + Framer Motion + Lucide React.
 
+## Run locally
+
 ```bash
 npm install
-npm run dev      # local dev server
-npm run build    # production build in dist/
-npm run preview  # preview the build
+npm run dev
 ```
 
-All content lives in `src/data/portfolio.js`. Theme is stored in `localStorage` and applied by an inline script in `index.html` to avoid a flash on load. Deploy `dist/` to Vercel, Netlify or GitHub Pages.
+## Production build
+
+```bash
+npm run build
+npm run preview
+```
+
+All portfolio content lives in `src/data/portfolio.js`.
+
+Theme preferences are stored in `localStorage`.
+
+## Deployment
+
+Deployed using Vercel. Push changes to the connected GitHub repository to trigger automatic deployments.
